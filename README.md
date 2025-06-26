@@ -25,4 +25,4 @@ warpxio generate "Write a Python script"
 
 Here's how to run WarpXIO on your machine:
 
-![Running WarpXIO](run.png)
+![Running WarpXIO](readmefiles/images/run.png)
