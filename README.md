@@ -16,7 +16,7 @@
   <a href="https://pypi.org/project/warpxio/0.1.0/">
     <img src="https://badge.fury.io/py/warpxio.svg" alt="PyPI Version"/>
   </a>
-  <a href="https://pypi.org/project/warpxio/0.1.0/">
+  <a href="https://pypi.org/project/warpxio/0.1.1/">
     <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version"/>
   </a>
 </p>
