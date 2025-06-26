@@ -1,13 +1,25 @@
 # WarpXIO
 
-A proprietary CLI-based AI text generation tool.
+<p align="center">
+  <img src="readmefiles/images/warpxio.png" alt="WarpXIO Logo" width="200"/>
+</p>
 
-**Note**: WarpXIO is not affiliated with WarpX, Cloudflare WARP, or other projects.
+<p align="center">
+  <strong>A proprietary CLI-based AI text generation tool</strong>
+</p>
 
-## Links
+<p align="center">
+  <em>Note: WarpXIO is not affiliated with WarpX, Cloudflare WARP, or other projects.</em>
+</p>
 
-- [PyPI Package](https://pypi.org/project/warpxio/0.1.0/)
-- [Test PyPI Package](https://test.pypi.org/project/warpxio/0.1.0/)
+<p align="center">
+  <a href="https://pypi.org/project/warpxio/0.1.0/">
+    <img src="https://badge.fury.io/py/warpxio.svg" alt="PyPI Version"/>
+  </a>
+  <a href="https://pypi.org/project/warpxio/0.1.0/">
+    <img src="https://img.shields.io/pypi/pyversions/warpxio.svg" alt="Python Version"/>
+  </a>
+</p>
 
 ## Installation
 
@@ -20,9 +32,3 @@ pip install warpxio
 ```bash
 warpxio generate "Write a Python script"
 ```
-
-## Demo
-
-Here's how to run WarpXIO on your machine:
-
-![Running WarpXIO](readmefiles/images/run.png)
