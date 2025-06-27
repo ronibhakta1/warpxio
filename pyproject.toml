@@ -1,7 +1,7 @@
 [project]
 
 name = "warpxio"
-version = "0.1.0"
+version = "0.1.1"
 description = "A CLI-based AI text generation tool (Proprietary)"
 authors = [{name = "Roni Bhakta", email = "ronibhakta1@gmail.com"}]
 readme = "README.md"
