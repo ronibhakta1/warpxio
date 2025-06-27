@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/pypi/pyversions/warpxio.svg?cache=none" alt="Python Version"/>
   </a>
   <a href="https://pypi.org/project/warpxio/">
-    <img src="https://img.shields.io/pypi/dm/warpxio.svg" alt="Downloads"/>
+    <img src="https://img.shields.io/pypi/l/warpxio.svg" alt="License"/>
   </a>
 </p>
 
