@@ -35,3 +35,9 @@ pip install warpxio
 ```bash
 warpxio generate "Write a Python script"
 ```
+
+---
+
+<p align="center">
+  <strong>WarpXIO © 2025, Roni Bhakta. All rights reserved.</strong>
+</p>
