@@ -39,7 +39,7 @@ warpxio generate "Write a Python script"
 ## Workspace Design idea
 
 <p align="center">
-  <img src="images/Workspace.png" alt="WarpXIO Workspace Demo" width="800"/>
+  <img src="images/warpxioworkspace.png" alt="WarpXIO Workspace Demo" width="600"/>
 </p>
 
 ---
