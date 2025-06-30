@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>A proprietary CLI-based AI text generation tool</strong>
+  <strong>Warpxio is an oepn source LLMs based code interface which can be used on your terminals</strong>
 </p>
 
 <p align="center">
@@ -35,6 +35,12 @@ pip install warpxio
 ```bash
 warpxio generate "Write a Python script"
 ```
+
+## Workspace Design idea
+
+<p align="center">
+  <img src="images/Workspace.png" alt="WarpXIO Workspace Demo" width="800"/>
+</p>
 
 ---
 
